@@ -14,7 +14,7 @@
  * Uses 'long' instead of 'int', so that we can safely multiply two six-digit numbers together for
  * question 12 on iLearn.
  */
-public class Mat {
+class Mat {
   // The four values of matrix, later referred to as "B".
   public final long
     B00, B01, // top-left and top-right
